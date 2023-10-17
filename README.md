@@ -1,2 +1,2 @@
 # mm-starter-vite
-React Bootstrap starter project using Vitq build tooling
+React Bootstrap starter project using Vite build tooling
